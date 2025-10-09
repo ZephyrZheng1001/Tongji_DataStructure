@@ -1,11 +1,9 @@
-# CS Class of Tongji: Data Structure
+# 同济计算机课：数据结构
 
-Teacher: Xiaoguo Wang
+## 1.涵盖什么?
 
-## 1.What?
+该仓库存储了课程作业的源代码、实验报告以及课程的ppt。
 
-This is a GitHub repository for storing code of course assignments, lab reports, and lecture slides for the Data Structures course.
+## 2.一些其他事项。
 
-## 2.Why?
-
-Why not use data structure matching the problem? Huh, the oj platform has time limitation and memory limitation! How can I use a linked list to solve time complexity O(n)? I have no idea.
+1. 为什么不在特定作业部分使用特定的数据结构？因为oj平台还需要进行运行时间与内存检测，像线性表这样的数据结构，完全不能解决查找时间复杂度的问题，故用其他的数据结构。至于怎么办才能锻炼特定的数据结构，我想只能自己脱离oj训练了。另外，c++提供的STL能够让你抛开底层直接接触各种数据结构，详情可以学习MIT CS106B。
