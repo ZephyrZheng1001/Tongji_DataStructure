@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "RPN_Boolean_expression\\RPN_Boolean_expression.cpp",
               "ToolTip": "D:\\DataStructure_files\\hws\\hw2_souceCode\\RPN_Boolean_expression\\RPN_Boolean_expression\\RPN_Boolean_expression.cpp",
               "RelativeToolTip": "RPN_Boolean_expression\\RPN_Boolean_expression.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-13T18:04:20.552Z",
               "EditorCaption": ""

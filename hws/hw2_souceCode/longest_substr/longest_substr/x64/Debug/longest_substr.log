@@ -1,0 +1,3 @@
+﻿  longest_right_substr.cpp
+D:\DataStructure_files\hws\hw2_souceCode\longest_substr\longest_substr\longest_right_substr.cpp(14,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  longest_substr.vcxproj -> D:\DataStructure_files\hws\hw2_souceCode\longest_substr\x64\Debug\longest_substr.exe
