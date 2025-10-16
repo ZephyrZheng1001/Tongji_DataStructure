@@ -1,2 +1,12 @@
 #latex's
 **latex.log
+
+#VS's
+**.vs
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.sln
+**.exe
+**.pdb
+Debug
